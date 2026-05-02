@@ -1,0 +1,7 @@
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\webapp.exe
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\appsettings.Development.json
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\appsettings.json
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\webapp.dll
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\webapp.deps.json
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\webapp.runtimeconfig.json
+C:\Users\caova\OneDrive\Máy tính\azure\terraform\terraform-azure-project\terraform-azure-secure-3tier-architecture\publish\webapp.pdb
